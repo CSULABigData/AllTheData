@@ -10,8 +10,8 @@
 # keyword = raw_input("Enter a keyword:")
 # # Set the API endpoint 
 # 
-# token = oauth.Token(key="22731246-LLB0IhutUhoTQkX5niHTTWzlimcIcZ5091TchtGtx", secret="Vom2hm1IKMIWy4XfQau781bI4bE2nkDp57SBdv4OjSf0w")
-# consumer = oauth.Consumer(key="trLxP4HBxIT2lrBmi9zYBrEQW", secret="8kv2xqOFPHwXlBrIWH33OOKjcx06LdK6N18Zp123U9SAcypzcx")
+# token = oauth.Token(key="", secret="")
+# consumer = oauth.Consumer(key="", secret="")
 # searchURL = 'https://api.twitter.com/1.1/search/tweets.json?q=%23' + str(keyword)
 # client = oauth.Client(consumer, token)
 # 
